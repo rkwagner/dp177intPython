@@ -2,7 +2,7 @@ Author
 ------
 Ryan Wagner
 rkwagner@ucsd.edu
-http://github.org/rkwagner
+http://github.com/rkwagner
 
 Description
 -----------
